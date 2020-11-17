@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Abhinav. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Abhinav. 👋</h2>
 <p align='center'>
  <a href="https://www.instagram.com/abhinav_agrwal/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhinav007/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
