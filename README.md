@@ -10,17 +10,16 @@
 </div>
 
 
-<p align="center">I am IIT kharagpur graduate. I'm passionate about computer systems, problem solving and algorithms. Throughout my life, I have been driven by curiosity to learn new things. I am always up for a challenge and exploring new technologies. 
+<p align="center">I have completed MS in CS from UW Madison with focus on computer. I'm passionate about C++, computer architecture, operating systems, compilers, and software engineering. Throughout my life, I have been driven by curiosity to learn new things. I am always up for a challenge and exploring new technologies. 
 
 </p>
 
 <p align="center">
-I have a particular interest in developing high-performance systems which require in-depth knowledge of computer systems and networks. I have worked on developing throttling systems for C++ based concurrent server, leveraging shared memory, semaphores and sockets. I have also worked in big data technologies like Apache Flink, HBase, etc. with some brief exposure to working in front-end technologies like Nodejs and Angular. Currently, I am working on the development of low latency trading system in C++.
+I have a particular interest in developing high-performance systems which require in-depth knowledge of core computer science fundamentals. I have worked on several large C++ projects optimizing memory and latency and in also general uplifting the code quality with C++ best practices.
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning** advanced systems programming
-* **💬 Ask me about** C++, computer architecture, abseil, folly, compilers, linux kernel
+* **💬 Ask me about** C++, computer architecture - x86, compilers, linux kernel, storage systems
 * **⚡ Secret Hobby** Penetration testing
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
